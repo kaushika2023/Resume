@@ -2,10 +2,15 @@
 I’m Kaushika, a B.Tech CSE student at VIT specializing in Cloud Automation and Services. This project reflects my hands-on experience in cloud computing, full-stack development, and cybersecurity using tools like AWS, Docker, and React.js—built as part of my academic and internship journey.
 
 👩‍💻 Kaushika | Cloud Computing & Cybersecurity Enthusiast
+
 📍 Location: Bhopal, India
+
 🎓 B.Tech. in Computer Science Engineering 📌 Minor: Cloud Computing and Automation
+
 📅 Graduation: May 2026
+
 📫 Email: kaushikabinod@gmail.com
+
 🔗 LinkedIn | GitHub | HackerRank
 
 🚀 About Me
@@ -57,4 +62,5 @@ Web Development – Johns Hopkins University (HTML, CSS, JS)
 🌍 Languages
 
 English (Fluent), Hindi (Fluent), Arabic (Basic)
+
 💡 "Innovation is the ability to see change as an opportunity – not a threat."
